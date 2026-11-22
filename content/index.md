@@ -1,5 +1,5 @@
 ---
-title: MinJong Kim (김민종)
+title: Minjong Kim (김민종)
 description: Curriculum Vitae — PhD student in Pharmacy, Seoul National University. Deep generative models for protein structure.
 ---
 
