@@ -35,11 +35,24 @@ A hierarchical flow-matching model that generates apo-to-holo conformational cha
 
 ---
 
+## Presentations
+
+### Oral
+
+**Minjong Kim**, Juyong Lee. *Physically Valid Apo-to-Holo Protein Structure Generation via Hierarchical Flow Matching*.
+Young Scientists Session (YSS4-1), 2026 80th Anniversary International Convention of the Pharmaceutical Society of Korea, Oct 2026. — **Outstanding Oral Presentation Award**
+
+### Poster
+
+**Minjong Kim**, Juyong Lee. *Physically Valid Holo-Protein Generation in Torsional Space with Flow Matching*.
+2026 SNU Bio-AI Research Group Summer Workshop (서울대학교 바이오인공지능 연구단 하계 워크샵), Aug 2026.
+
+---
+
 ## Awards
 
 **Outstanding Oral Presentation Award** — Pharmaceutical Society of Korea, Oct 2026
-Awarded by the Committee of Scientific Affairs for an oral presentation at the 2026 80th Anniversary International Convention of the Pharmaceutical Society of Korea.
-*Physically valid apo-to-holo protein structure generation via hierarchical flow matching* — Minjong Kim; Juyong Lee (corresponding author).
+Awarded by the Committee of Scientific Affairs of the Pharmaceutical Society of Korea for an oral presentation at the 2026 80th Anniversary International Convention.
 
 ---
 
