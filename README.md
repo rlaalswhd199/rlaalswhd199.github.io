@@ -26,3 +26,18 @@ npx quartz build --serve
 | `quartz.config.yaml` | 제목·색·켜고 끈 기능 |
 | `.github/workflows/deploy.yml` | `main` 에 푸시하면 GitHub Pages로 빌드·배포 |
 | `sync-cv.sh` | 볼트 → `content/` 복사 + 푸시 |
+
+## 알아 둘 것
+
+- 이 맥의 `~/.npm` 캐시 폴더에 root 소유 파일이 섞여 있어서 `npm ci` 가 권한 오류로 멈춘다.
+  한 번만 아래를 실행하면 풀린다(비밀번호 필요):
+
+  ```
+  sudo chown -R $(id -u):$(id -g) ~/.npm
+  ```
+
+  당장 고치기 싫으면 캐시 위치만 바꿔서 설치해도 된다:
+
+  ```
+  npm ci --cache /tmp/npm-cache
+  ```
