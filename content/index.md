@@ -39,7 +39,7 @@ A hierarchical flow-matching model that generates apo-to-holo conformational cha
 
 **Outstanding Oral Presentation Award** — Pharmaceutical Society of Korea, Oct 2026
 Awarded by the Committee of Scientific Affairs for an oral presentation at the 2026 80th Anniversary International Convention of the Pharmaceutical Society of Korea.
-"Physically valid apo-to-holo protein structure generation via hierarchical flow matching" — MinJong Kim; Juyong Lee (corresponding author).
+*Physically valid apo-to-holo protein structure generation via hierarchical flow matching* — MinJong Kim; Juyong Lee (corresponding author).
 
 ---
 
