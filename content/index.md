@@ -28,7 +28,7 @@ Advised by [JuYong Lee](https://sites.google.com/view/lcbc) · Licensed pharmaci
 ## Publications and Preprints
 
 **Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically Plausible Apo-to-Holo Protein Generation** (CrypticFlow)
-Preprint submitted to arXiv, Nov 2026. <!-- arXiv 번호 나오면 이 줄을 "arXiv:2611.XXXXX" 링크로 바꾸세요 -->
+Preprint, [arXiv:2611.27162](https://arxiv.org/abs/2611.27162), Nov 2026.
 Under review, *International Conference on Learning Representations* (ICLR 2027).
 
 A hierarchical flow-matching model that generates apo-to-holo conformational change of protein Cα backbones, combining a Cartesian anchor stage with a local internal-coordinate refinement stage under ESM-3 sequence conditioning.
